@@ -18,6 +18,10 @@ To achieve the aim, the system will accomplish the following:
 - implement search and filter functionality across participants and trials
 - validate all inputs on both frontend and backend
 - write unit tests for key CRUD functions plus one integration test covering the full frontend-to-database flow.
+- remove the issue of spread sheet
+- access to the patient records
+- it prevents fragmentation of care
+- streamline communication between health professionals
 
 ## Functional Requirements
 1. __Trial management__: staff must be able to create a new clinical trial record with a title, description, lead researcher, start date, end date, and current status (recruiting, active, completed, suspended). Trials must be readable individually and as a full list. Trial details must be updatable, and trials must be deletable when no participants are enrolled.
